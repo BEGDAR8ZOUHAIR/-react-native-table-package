@@ -1,7 +1,7 @@
 import React from 'react';
 import { DataTable } from 'react-native-paper';
 
-const CustomTable = ({ columns, data }) =>
+const Table = ({ columns, data }) =>
 {
     return (
         <DataTable>
@@ -22,4 +22,4 @@ const CustomTable = ({ columns, data }) =>
     );
 };
 
-export default CustomTable;
+export default Table;
