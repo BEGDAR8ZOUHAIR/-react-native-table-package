@@ -1,0 +1,28 @@
+{
+  "name": "react-native-table",
+  "version": "1.0.0",
+  "description": "React Native Table is a versatile and customizable table component for React Native",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BEGDAR8ZOUHAIR/-react-native-table-package.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-table",
+    "react-native-table-packge",
+    "npm-package"
+  ],
+  "author": "Zouhair Begdar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BEGDAR8ZOUHAIR/-react-native-table-package/issues"
+  },
+  "homepage": "https://github.com/BEGDAR8ZOUHAIR/-react-native-table-package#readme"
+}
