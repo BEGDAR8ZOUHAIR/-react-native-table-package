@@ -84,4 +84,13 @@ If you encounter any issues or have suggestions for improvements, please open an
 ## Authors
 Zouhair Begdar
 
+<p align="center">
+  <a href="https://github.com/begdar8zouhair/react-native-table/issues">
+    <img src="https://img.shields.io/github/issues/begdar8zouhair/react-native-table" alt="GitHub issues">
+  </a>
+  <a href="https://github.com/begdar8zouhair/react-native-table">
+    <img src="https://img.shields.io/github/stars/begdar8zouhair/react-native-table" alt="GitHub stars">
+  </a>
+</p>
+
 
