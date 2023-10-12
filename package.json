@@ -1,6 +1,6 @@
 {
   "name": "@begdar8zouhair/react-native-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Table is a versatile and customizable table component for React Native",
   "main": "index.js",
   "directories": {
@@ -32,5 +32,6 @@
     "@begdar8zouhair/react-native-table": "^1.0.0",
     "react": "^18.2.0",
     "react-native-paper": "^5.10.6"
-  }
+  },
+  "devDependencies": {}
 }
