@@ -29,9 +29,8 @@
   },
   "homepage": "https://github.com/BEGDAR8ZOUHAIR/-react-native-table-package#readme",
   "dependencies": {
-    "@begdar8zouhair/react-native-table": "^1.0.0",
+    "@begdar8zouhair/react-native-table": "^1.0.3",
     "react": "^18.2.0",
     "react-native-paper": "^5.10.6"
-  },
-  "devDependencies": {}
+  }
 }
